@@ -10,17 +10,17 @@ Dataset yang diberikan diolah hingga menjadi data yang siap digunakan (clean & s
 
 Setelah data siap digunakan, hasil analisis tersebut diimplementasikan ke dalam sebuah website sederhana untuk menampilkan hasil secara interaktif.
 
-📌 Data Processing
-Python
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-🌐 Web Development
-Laravel (PHP)
-HTML
-CSS
-Bootstrap
-JavaScript
-MySQL
+1. Data Processing
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+2. Web Development
+- Laravel (PHP)
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- MySQL
