@@ -2,6 +2,8 @@ Project ini merupakan tugas kelompok dari perkuliahan yang berfokus pada data pr
 
 Dataset yang diberikan diolah hingga menjadi data yang siap digunakan (clean & structured), lalu dianalisis menggunakan Python, dan ditampilkan dalam bentuk website berbasis web application.
 
+Project ini merupakan tugas kelompok yang dikerjakan oleh 5 orang. Dalam implementasinya, saya turut berkontribusi dalam pengembangan web dashboard dan beberapa bagian visualisasi data.
+
 - Pembersihan data (data cleaning)
 - Penanganan missing value
 - Transformasi data
